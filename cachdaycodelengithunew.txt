@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "dat ten bat ky"
+git remote add origin "Dia chi github"
+git push -u origin master
+
+Kiểm tra xem đang kết nối ở đâu
+git remote -v
+chuyển địa chỉ
+git remote set-url origin "Dia chi Github"
